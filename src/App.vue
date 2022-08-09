@@ -41,5 +41,6 @@ export default {
     font-size: 42px;
     color: #222;
     bottom: 30px;
+    margin: 50px;
   }
 </style>
