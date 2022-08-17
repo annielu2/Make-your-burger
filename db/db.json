@@ -87,31 +87,20 @@
         "Tomate",
         "Pepino"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 1
     },
     {
-      "nome": "Alice",
-      "carne": "Maminha",
-      "pao": "Parmesão e Orégano",
+      "nome": "Clara",
+      "carne": "Picanha",
+      "pao": "Italiano Branco",
       "opcionais": [
-        "Bacon",
         "Cheddar",
-        "Tomate"
+        "Salame",
+        "Cebola roxa"
       ],
       "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "Gabriel",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Tomate",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 3
+      "id": 4
     }
   ]
 }
