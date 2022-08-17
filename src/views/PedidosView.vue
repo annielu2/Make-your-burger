@@ -1,5 +1,17 @@
 <template>
   <div class="main-container">
-    <h1>PEDIDOS</h1>
+    <DashboardComponent/>
   </div>
 </template>
+
+<script>
+
+import DashboardComponent from '../components/Dashboard.vue'
+
+export default {
+  name: "PedidosView",
+  components: {
+    DashboardComponent
+  }
+}
+</script>

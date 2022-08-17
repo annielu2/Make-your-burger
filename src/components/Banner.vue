@@ -21,7 +21,8 @@ export default{
         display: flex;
         align-items: center;
         justify-content: flex-start;
-    }
+        margin: 0 auto;  
+    } 
 
     #main-container h1{
         color:rgb(223, 223, 223);
