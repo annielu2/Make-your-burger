@@ -13,6 +13,7 @@ export default {
 <style scoped>
     #footer{
         padding: 40px;
+        min-height: 200px;
         background-color: #222;
         border-top: 4px solid #111;
         color:  rgb(133, 133, 133);
@@ -22,7 +23,6 @@ export default {
         bottom: 0;
         width: 100%;
         font-size: 0.9em;
-
 
     }
 </style>

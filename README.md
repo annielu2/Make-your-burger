@@ -1,24 +1,17 @@
-# project-burger
+# Projeto Make Your Burger
 
-## Project setup
-```
-npm install
-```
+Projeto de site criado a partir do curso de Vue 3 do canal Hora de Codar. É possível montar os hambúrgueres e controlar os pedidos dos clientes.
 
-### Compiles and hot-reloads for development
+## Execução
+
+Para executar o código, é necessário utilizar para o desenvolvimento e atualizações do front-end:
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Para carregar o banco de dados, e utilizá-lo na API basta executar
 
-### Lints and fixes files
 ```
-npm run lint
+npm run backend
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
